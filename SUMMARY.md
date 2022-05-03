@@ -5,7 +5,7 @@
 ## osu!
 
 * [Getting Started](osu/getting-started/README.md)
-  * [How to get invite code?](osu/getting-started/how-to-get-invite-code.md)
+  * [How to get invite code?](osu/how-to-get-invite-code.md)
   * [How to connect?](osu/how-to-connect.md)
 * [FAQ](osu/faq/README.md)
   * [How to get your beatmap ranked?](osu/how-to-get-your-beatmap-ranked.md)

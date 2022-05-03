@@ -2,9 +2,6 @@
 description: >-
   Being consufed and frustrated how to connect? or are you new about private
   server? here you can learn how to connect to the osu! private server.
-cover: >-
-  https://images.unsplash.com/photo-1550745165-9bc0b252726f?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxnYW1lfGVufDB8fHx8MTY1MTU0MzM5OQ&ixlib=rb-1.2.1&q=85
-coverY: 0
 ---
 
 # How to connect?

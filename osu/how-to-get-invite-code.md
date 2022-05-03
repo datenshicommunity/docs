@@ -1,8 +1,5 @@
 ---
 description: Bruh, really? you didn't see that?
-cover: >-
-  https://images.unsplash.com/photo-1648928744943-5991dcba29ee?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTE1NDMxNjU&ixlib=rb-1.2.1&q=85
-coverY: 0
 ---
 
 # How to get invite code?
