@@ -13,4 +13,4 @@ Are you still can't see? let me give you that link directly
 * [Datenshi Page](https://datenshi.pw/osu-information/)
 * [troke's osu! userpage](https://osu.ppy.sh/users/3133671) (the main code)
 
-Just click above to get the invite code, if you really asking again where the invite code, you should go to the eyes doctors.
+Just click above to get the invite code, if you keep asking again where is the invite code, you should go to the eyes doctors.

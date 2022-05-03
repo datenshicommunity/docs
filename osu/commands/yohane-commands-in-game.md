@@ -4,8 +4,6 @@ description: This commands will help you from in-game
 
 # Yohane Commands (In-Game)
 
-## General Commands
-
 | General Commands              | Note                                                                                                                                                       |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `!faq list`                   | To view a list of faq (fun commands)                                                                                                                       |
@@ -14,8 +12,6 @@ description: This commands will help you from in-game
 | `!report`                     | To report a user                                                                                                                                           |
 | `!scoreboard <relax/vanilla>` | Sort your ingame leaderboards to SCORE                                                                                                                     |
 | `!ppboard <relax/vanilla>`    | Sort your ingame leaderboards to PP                                                                                                                        |
-
-## Admin Commands
 
 | Admin Commands                  | Note                                             |
 | ------------------------------- | ------------------------------------------------ |
@@ -34,17 +30,15 @@ description: This commands will help you from in-game
 | `!alert <message>`              | Global alert                                     |
 | `!alertuser <username>`         | Alert to the user                                |
 
-## Beatmap Nominator Commands
-
-| Beatmap Nominator Commands |                                                          |
-| -------------------------- | -------------------------------------------------------- |
-| `!map rank [type] <id>`    | Rank the map                                             |
-| `!map love [type] <id>`    | Love the map                                             |
-| `!map unrank [type] <id>`  | Unrank the map                                           |
-| `!map reset [type] <id>`   | Reset status of the map                                  |
-| `!map auto-rank <id>`      | Can only be set by someone permitted to manage autoranks |
-| `!map auto-love <id>`      | Can only be set by someone permitted to manage autoranks |
-| `!map auto-cancel <id>`    | Can only be set by someone permitted to manage autoranks |
+| Beatmap Nominators Commands |                                                          |
+| --------------------------- | -------------------------------------------------------- |
+| `!map rank [type] <id>`     | Rank the map                                             |
+| `!map love [type] <id>`     | Love the map                                             |
+| `!map unrank [type] <id>`   | Unrank the map                                           |
+| `!map reset [type] <id>`    | Reset status of the map                                  |
+| `!map auto-rank <id>`       | Can only be set by someone permitted to manage autoranks |
+| `!map auto-love <id>`       | Can only be set by someone permitted to manage autoranks |
+| `!map auto-cancel <id>`     | Can only be set by someone permitted to manage autoranks |
 
 {% hint style="info" %}
 Type :&#x20;
