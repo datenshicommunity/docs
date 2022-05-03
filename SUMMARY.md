@@ -11,8 +11,3 @@
 * [Performance Points](osu/performance-points.md)
 * [PP Limiter](osu/pp-limiter.md)
 * [Multiplayer Commands](osu/multiplayer-commands.md)
-
-## The Formal Stuff
-
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
