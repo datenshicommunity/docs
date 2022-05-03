@@ -18,6 +18,10 @@ In-game registration are currently disabled.
 
 Then you will be prompted to new page that guide you for doing in-game login to active your account.
 
+{% hint style="info" %}
+Refresh the page if you already activated the account.
+{% endhint %}
+
 ![](https://cdn.discordapp.com/attachments/874910377937354763/970954526783848508/unknown.png)
 
 ### 3. Login to the osu! and activated

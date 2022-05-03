@@ -13,4 +13,6 @@
   * [How to confirm osu! donation?](osu/how-to-confirm-osu-donation.md)
 * [Performance Points](osu/performance-points.md)
 * [PP Limiter](osu/pp-limiter.md)
-* [Multiplayer Commands](osu/multiplayer-commands.md)
+* [Commands](osu/commands/README.md)
+  * [Yohane Commands (In-Game)](osu/commands/yohane-commands-in-game.md)
+  * [Multiplayer Commands](osu/commands/multiplayer-commands.md)
