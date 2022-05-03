@@ -5,6 +5,7 @@
 ## osu!
 
 * [Getting Started](osu/getting-started/README.md)
+  * [Register](osu/getting-started/register.md)
   * [How to get invite code?](osu/how-to-get-invite-code.md)
   * [How to connect?](osu/how-to-connect.md)
 * [FAQ](osu/faq/README.md)
