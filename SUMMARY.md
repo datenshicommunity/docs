@@ -16,3 +16,4 @@
 * [Commands](osu/commands/README.md)
   * [Yohane Commands (In-Game)](osu/commands/yohane-commands-in-game.md)
   * [Multiplayer Commands](osu/commands/multiplayer-commands.md)
+* [Custom Medals](osu/custom-medals.md)
