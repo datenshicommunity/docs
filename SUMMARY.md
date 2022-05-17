@@ -2,7 +2,7 @@
 
 * [Welcome!](README.md)
 
-## osu!
+## 🎹 osu!
 
 * [Getting Started](osu/getting-started/README.md)
   * [Register](osu/getting-started/register.md)
@@ -17,3 +17,9 @@
   * [Yohane Commands (In-Game)](osu/commands/yohane-commands-in-game.md)
   * [Multiplayer Commands](osu/commands/multiplayer-commands.md)
 * [Custom Medals](osu/custom-medals.md)
+
+## 💸 Minecraft
+
+* [Getting Started](minecraft/getting-started/README.md)
+  * [Register](minecraft/getting-started/register.md)
+  * [Login](minecraft/getting-started/login.md)
